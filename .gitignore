@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+env/
+
+# Environment Variables (보안상 절대 올리면 안 됨)
+.env
+
+# IDE settings
+.vscode/
+.idea/
